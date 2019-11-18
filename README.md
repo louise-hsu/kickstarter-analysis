@@ -1,4 +1,4 @@
-** An Analysis of Kickstarter Campaigns **
+**An Analysis of Kickstarter Campaigns**
 Downloaded, cleaned, and analyzed  Louise's Project Campaigne Data. Using this data, I practiced and learned how to use filters, create charts, pivot tables, pivot charts, formatting, vlookups/methods of searching, and statistics and visualization tools and formulas. 
 
 ---
@@ -13,7 +13,6 @@ Conclusion: From the Parent Category Chart, we can see that theatre campaigns ar
 ![Parent Category Outcome - filtered US](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Parent%20Category%20Outcome%20-%20filtered%20US.png)
 Conclusion: Looking at only the US Parent Category Chart, theatre is still the most popular parent category campaign. There were 525 successful theater campaigns in the United States.
 
--
 
-![Box and Whisker- GB musical](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Parent%20Category%20Outcome%20-%20filtered%20US.png)
+
 
