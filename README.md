@@ -8,10 +8,12 @@ These charts and conclusions below were found through performing the Module 1 Sk
 
 - **Parent Category Chart**
 ![Parent Category Outcome - unfiltered](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Parent%20Category%20Outcome%20-%20unfiltered.png)
+
 **Conclusion:** From the Parent Category Chart, we can see that theatre campaigns are the most popular. It contains the most successful and failed campaigns compared to the other parent categories. 
 
 - **Parent Category Chart - US**
 ![Parent Category Outcome - filtered US](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Parent%20Category%20Outcome%20-%20filtered%20US.png)
+
 **Conclusion:** Looking at only the US Parent Category Chart, theatre is still the most popular parent category campaign, following the trend of popularity of theatre amount all countries. There were 525 successful theater campaigns in the United States.
 
 -  **Parent Category Outcomes - Theatre**
@@ -26,6 +28,7 @@ These charts and conclusions below were found through performing the Module 1 Sk
 
 - **Outcomes Based on Launched Date Line**
 ![Outcomes Based on Launch Date Line](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date%20Line.png)
+
 **Conclusion:** The most successful Kickstarter campaigns were started in May, and  December did not show a great time to launch a campaign.
 
 - **Outcomes Based on Launched Date - Theatre**
@@ -37,6 +40,8 @@ These charts and conclusions below were found through performing the Module 1 Sk
 ![Box and Whisker- GB musical](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Box%20and%20Whisker-%20GB%20musical.png)
 
 **Conclusion:** The mean campaign goal is around £4,000, while the mean campaign pledged is less than £2,000. Louise should change her goal amount to be more realistic because the £4,000 lies  outside of the range of outliers for amount pledged. A realistic goal would be around £1,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
+
+---
 
 ### **Challenge**
 
@@ -50,5 +55,10 @@ These charts and conclusions were created, and can be found in the excel documen
 ![Outcomes Based on Launch Date](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 
 **NEW CONCLUSIONS:** 
-1. 
+1. We can conclude that campaigns with goals less than $1000 are most likely to be successful, and less likely to fail. From Goals of $10000-44999, the success of the campaign is less visibility noticeable, however looking at the percentage of success and fail rates. The percentage of successful campaigns decrease as the goal amount increases, and the precentage of failed campaigns increase as the goal mount increases. Campaigns with goals greater than $44999, the success of the campaign decreases and tends to have a increased failed amount. 
+2. Most campaigns were launched in May and June. More campaigns that were launched in May and June were successful, and  decreased/tapered off as the year went on. The most failed and least successful campaigns were launched in December. It seems that the what determines if a campaign is successful or failed is the launch month. 
+3. Looking at an earlier chart, Outcomes Based on Launch Date - theatre, we can conclude that theatre follows tred of  of increased successful campaigns that began in May-June, but that tapers off by the end of the year. 
+
+- limitations of the dataset and suggestions for additional tables of graphs
+
 
