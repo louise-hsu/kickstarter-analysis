@@ -1,4 +1,4 @@
-##**An Analysis of Kickstarter Campaigns**
+####**An Analysis of Kickstarter Campaigns**
 
 Downloaded, cleaned, and analyzed  Louise's Project Campaigne Data. Using this data, I practiced and learned how to use filters, create charts, pivot tables, pivot charts, formatting, vlookups/methods of searching, and statistics and visualization tools and formulas. 
 
@@ -19,10 +19,13 @@ These charts and conclusions below were found through performing the Module 1 Sk
 - **Subcategory Outcome - Plays**
 
 - **Outcomes Based on Launched Date**
-![Outcomes Based on Launch Date](https://github.com/louise-hsu/kickstarter analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
+![Outcomes Based on Launch Date](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 **Conclusion:** The most successful Kickstarter campaigns were started in May, and  December did not show a great time to launch a campaign.
 
 - **Outcomes Based on Launched Date - Theatre**
+![Outcomes Based on Launch Date - filtered theatre](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date-%20filtered%20theatre.png)
+
+**Conclusion:** By filtering the Outcomes Based on Launched Date to only Theatre, we can determine that theater is a popular and successful type of campaign overall. Theater follows the overall trend of increased successful campaigns that began in June, but that tapers off by the end of the year. 
 
 - **Great Britain Musical Box and Whisker**
 
