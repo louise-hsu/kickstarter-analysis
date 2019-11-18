@@ -59,6 +59,14 @@ These charts and conclusions were created, and can be found in the excel documen
 2. Most campaigns were launched in May and June. More campaigns that were launched in May and June were successful, and  decreased/tapered off as the year went on. The most failed and least successful campaigns were launched in December. It seems that the what determines if a campaign is successful or failed is the launch month. 
 3. Looking at an earlier chart, Outcomes Based on Launch Date - theatre, we can conclude that theatre follows tred of  of increased successful campaigns that began in May-June, but that tapers off by the end of the year. 
 
-- limitations of the dataset and suggestions for additional tables of graphs
+**limitations of the dataset and suggestions for additional tables of graphs**
+Though the dataset gives indications of whether a campaign was successful or failed, it does not give details on
+said failure or success. Any additional recommendations on how to prevent failure or success is purely based on
+the pledged amount/ goal amount/ month launch. Helpful additional information would be (but not limited to):
+  - Average size of pledge for each successful & unsuccessful for every campaign
+  - Number of pledges for each successful & unsuccessful campaign
 
+Additional ways of looking at the data with the data given could include, but are not limited to:
+  - Average length of campaign vs success/failure ratio
+  - more accurate and the exact time of month
 
