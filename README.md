@@ -12,7 +12,7 @@ These charts and conclusions below were found through performing the Module 1 Sk
 
 - **Parent Category Chart - US**
 ![Parent Category Outcome - filtered US](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Parent%20Category%20Outcome%20-%20filtered%20US.png)
-**Conclusion:** Looking at only the US Parent Category Chart, theatre is still the most popular parent category campaign. There were 525 successful theater campaigns in the United States.
+**Conclusion:** Looking at only the US Parent Category Chart, theatre is still the most popular parent category campaign, following the trend of popularity of theatre amount all countries. There were 525 successful theater campaigns in the United States.
 
 -  **Parent Category Outcomes - Theatre**
 
@@ -28,6 +28,9 @@ These charts and conclusions below were found through performing the Module 1 Sk
 **Conclusion:** By filtering the Outcomes Based on Launched Date to only Theatre, we can determine that theater is a popular and successful type of campaign overall. Theater follows the overall trend of increased successful campaigns that began in June, but that tapers off by the end of the year. 
 
 - **Great Britain Musical Box and Whisker**
+![Box and Whisker- GB musical](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Box%20and%20Whisker-%20GB%20musical.png)
+
+**Conclusion:** The mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
 ###**Challenge**
 
