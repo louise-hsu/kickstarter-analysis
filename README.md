@@ -1,4 +1,4 @@
-####**An Analysis of Kickstarter Campaigns**
+### **An Analysis of Kickstarter Campaigns** 
 
 Downloaded, cleaned, and analyzed  Louise's Project Campaigne Data. Using this data, I practiced and learned how to use filters, create charts, pivot tables, pivot charts, formatting, vlookups/methods of searching, and statistics and visualization tools and formulas. 
 
@@ -15,11 +15,17 @@ These charts and conclusions below were found through performing the Module 1 Sk
 **Conclusion:** Looking at only the US Parent Category Chart, theatre is still the most popular parent category campaign, following the trend of popularity of theatre amount all countries. There were 525 successful theater campaigns in the United States.
 
 -  **Parent Category Outcomes - Theatre**
+![Parent Category Outcome- filtered theatre](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Parent%20Category%20Outcome-%20filtered%20theatre.png)
+
+**Conclusion:** This chart only looks at the parent category Theatre. A little less than 2/3 of theatre campaigns are successful. A little more than 1/3 of theatre campaigns are failed. Overall, theatre campaigns do realitively well.  
 
 - **Subcategory Outcome - Plays**
+![Subcategory Outcome- filtered plays](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Subcategory%20Outcome-%20filtered%20plays.png)
 
-- **Outcomes Based on Launched Date**
-![Outcomes Based on Launch Date](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
+**Conclusion:** Plays is a subcategory of theatre. Plays follows the overall trend of theatre, where a little less thn 2/3 of the campaigns are successful and a little more than 1/3 of campaigns are failed. 
+
+- **Outcomes Based on Launched Date Line**
+![Outcomes Based on Launch Date Line](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date%20Line.png)
 **Conclusion:** The most successful Kickstarter campaigns were started in May, and  December did not show a great time to launch a campaign.
 
 - **Outcomes Based on Launched Date - Theatre**
@@ -30,11 +36,19 @@ These charts and conclusions below were found through performing the Module 1 Sk
 - **Great Britain Musical Box and Whisker**
 ![Box and Whisker- GB musical](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Box%20and%20Whisker-%20GB%20musical.png)
 
-**Conclusion:** The mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so Louise should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
+**Conclusion:** The mean campaign goal is around £4,000, while the mean campaign pledged is less than £2,000. Louise should change her goal amount to be more realistic because the £4,000 lies  outside of the range of outliers for amount pledged. A realistic goal would be around £1,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
 
-###**Challenge**
+### **Challenge**
 
-These charts and conclusions were 
+These charts and conclusions were created, and can be found in the excel document **Module 1 Challenge _ Louise Hsu**. I kept the challenge separate, in order to keep the document more organized and less cluttered. 
 
+- Outcomes Based on Goal
+![Outcomes Based on Goal](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goal.png)
 
+- Outcomes Based on Launch Date
+
+![Outcomes Based on Launch Date](https://github.com/louise-hsu/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
+
+**NEW CONCLUSIONS:** 
+1. 
 
