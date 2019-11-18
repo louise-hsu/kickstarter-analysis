@@ -1,4 +1,5 @@
 **An Analysis of Kickstarter Campaigns**
+
 Downloaded, cleaned, and analyzed  Louise's Project Campaigne Data. Using this data, I practiced and learned how to use filters, create charts, pivot tables, pivot charts, formatting, vlookups/methods of searching, and statistics and visualization tools and formulas. 
 
 ---
